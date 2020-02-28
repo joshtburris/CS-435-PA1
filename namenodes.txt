@@ -1,0 +1,14 @@
+fs.default.name: boise:30221
+dfs.namenode.http-address: boise:30222
+dfs.namenode.secondary.http-address: albany:30223
+dfs.datanode.address: 0.0.0.0:30224
+dfs.datanode.http.address: 0.0.0.0:30225
+dfs.datanode.ipc.address: 0.0.0.0:30226
+mapreduce.shuffle.port: 30227
+yarn.resourcemanager.resource-tracker.address: boston:30228
+yarn.resourcemanager.scheduler.address: boston:30229
+yarn.resourcemanager.address: boston:30230
+yarn.nodemanager.address: 0.0.0.0:30231
+yarn.nodemanager.localizer.address: 0.0.0.0:30232
+yarn.nodemanager.webapp.address: 0.0.0.0:30233
+yarn.resourcemanager.webapp.address: 0.0.0.0:30234
